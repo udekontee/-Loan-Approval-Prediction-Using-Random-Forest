@@ -1,4 +1,4 @@
-# -Loan-Approval-Prediction-Using-Random-Forest
+# Loan-Approval-Prediction-Using-Random-Forest
 Predicting loan approval outcomes using machine learning. This project utilizes a Random Forest model to analyze financial and applicant data, achieving an accuracy rate of 76%. Visual analyses highlight credit history and income as the strongest predictors influencing loan approval decisions.
 
 ## 📘 Project Overview  
